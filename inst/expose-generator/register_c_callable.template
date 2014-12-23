@@ -1,0 +1,1 @@
+R_RegisterCCallable("digest", "{{fname}}", (DL_FUNC) &{{fname}});

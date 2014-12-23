@@ -1,0 +1,1 @@
+{ "{{fname}}", (DL_FUNC) &{{fname}}, {{fargc}} },
